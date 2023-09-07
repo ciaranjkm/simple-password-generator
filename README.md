@@ -1,3 +1,3 @@
 # simple-password-generator
 
-##A password generator using Python 3.
+A password generator using Python 3.
